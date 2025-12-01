@@ -10,7 +10,7 @@ const Hero = () => (
       className="text-center px-4"
     >
       <motion.img
-        src="../../public/Hadisa.jpeg"
+        src="./Hadisa.jpeg"
         alt="Hadisa Fatima Syed"
         className="w-32 h-32 md:w-50 md:h-50 object-cover rounded-full mx-auto mb-6 shadow-lg border-4 border-white"
         initial={{ scale: 0 }}
@@ -31,7 +31,7 @@ const Hero = () => (
         Empowering decisions through data-driven storytelling
       </h3>
       <a
-        href="../../public/Hadisa_Syed_DataAnalyst_Resume.pdf"
+        href="./Hadisa_Syed_DataAnalyst_Resume.pdf"
         download
         className="cursor-pointer text-white group px-6 py-3 rounded-lg bg-gray-800 hover:bg-gray-900 transition-colors inline-flex items-center"
       >
