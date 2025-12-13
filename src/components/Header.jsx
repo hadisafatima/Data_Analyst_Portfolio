@@ -25,6 +25,10 @@ const Header = () => {
             e.preventDefault();
             document.getElementById('experience').scrollIntoView({ behavior: 'smooth' });
           }}>Experience</a>
+          <a href="#certifications" className="text-white/70 hover:bg-white/20 px-2.5 py-1.5 rounded-full hover:text-white transition-colors duration-500" onClick={(e) => {
+            e.preventDefault();
+            document.getElementById('certifications').scrollIntoView({ behavior: 'smooth' });
+          }}>Certifications</a>
           <a href="#contact" className="text-white/70 hover:bg-white/20 px-2.5 py-1.5 rounded-full hover:text-white transition-colors duration-500" onClick={(e) => {
             e.preventDefault();
             document.getElementById('contact').scrollIntoView({ behavior: 'smooth' });
@@ -52,6 +56,10 @@ const Header = () => {
             e.preventDefault();
             document.getElementById('experience').scrollIntoView({ behavior: 'smooth' });
           }}>Experience</a>
+          <a href="#certifications" className="text-white/70 hover:bg-white/20 px-2.5 py-1.5 rounded-full hover:text-white transition-colors duration-500" onClick={(e) => {
+            e.preventDefault();
+            document.getElementById('certifications').scrollIntoView({ behavior: 'smooth' });
+          }}>Certifications</a>
           <a href="#contact" className="block px-4 py-2 text-white/70 hover:text-white hover:bg-white/10" onClick={(e) => {
             e.preventDefault();
             document.getElementById('contact').scrollIntoView({ behavior: 'smooth' });

@@ -1,7 +1,7 @@
 import { SiKaggle, SiGithub, SiLinkedin} from 'react-icons/si';
 
 const Footer = () => (
-  <footer className="bg-gray-900 text-white py-8">
+  <footer className="bg-gray-800 text-white py-8">
     <div className="container mx-auto px-4 text-center">
       <p className="mb-4">&copy; 2023 Hadisa Fatima Syed. All rights reserved.</p>
       <div className="flex justify-center items-center space-x-6">

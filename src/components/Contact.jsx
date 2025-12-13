@@ -2,7 +2,7 @@ import { motion } from 'framer-motion';
 import { Mail, Phone } from 'lucide-react';
 
 const Contact = () => (
-  <section id="contact" className="py-20 bg-gray-50 dark:bg-gray-800">
+  <section id="contact" className="py-20 bg-gray-50 dark:bg-gray-900">
     <div className="container mx-auto px-4 text-center">
       <motion.h3
         initial={{ opacity: 0 }}
