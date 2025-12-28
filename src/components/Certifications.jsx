@@ -5,7 +5,7 @@ const certifications = [
     {
         title: 'Google Data Analytics Professional Certificate',
         issuer: 'Google',
-        date: '1 Dec, 2023',
+        date: '1 Dec, 2025',
         image: '/Google_Data_Analytics_Career_Certitficate.png',
     },
     {
@@ -13,6 +13,18 @@ const certifications = [
         issuer: 'Excelerate',
         date: '1 July, 2025',
         image: '/Excelerate_Internship_Certificate.png',
+    },
+    {
+        title: 'Data Visualization Job simulation (Remote simulation)',
+        issuer: 'Tata Forage',
+        date: 'April, 2025',
+        image: '/Tata_Forage_Simulation_Certificate.png',
+    },
+    {
+        title: 'GDSC Core Team Member',
+        issuer: 'Google | Google Developers Students Club',
+        date: '2023 - 2024',
+        image: '/GDSC_Core_Team_Certificate.jpeg',
     },
 ];
 

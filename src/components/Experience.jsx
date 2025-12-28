@@ -2,6 +2,13 @@ import { motion } from 'framer-motion';
 
 const experiences = [
   {
+    role: 'Data Analyst (Hackathon)',
+    company: 'NASA Challenge 2025',
+    duration: '2 days (4 Oct - 5 Oct 2025)',
+    description: 'Performed data cleaning and manipulation to prepare bloom datasets for analysis across different regions and seasons.Conducted Exploratory Data Analysis (EDA) to uncover seasonal variations, area-specific trends, and bloom patterns.Built and compared regression models to predict bloom intensity accurately, visualizing results through interactive charts.Developed an AI/ML-based prediction feature enabling users to estimate bloom areas for selected plants in specific regions and seasons.',
+    skillsGained: ['Team Work, Data Cleaning, Storytelling Visualizations, Model Creation, Model Evaluation, Insights Presentation'],
+  },
+  {
     role: 'Data Scientist (Intern)',
     company: 'DevelopersHub Corporation',
     duration: '2 Months (June 2025 - July 2025)',
@@ -16,12 +23,12 @@ const experiences = [
     skillsGained: ['Team Collaboration, Data Cleaning, Data Visualization, Insight Generation, Stakeholder Communication, Marketing Analytics.']
   },
   {
-    role: 'Data Analyst (Hackathon)',
-    company: 'NASA Challenge 2025',
-    duration: '2 days (4 Oct - 5 Oct 2025)',
-    description: 'Performed data cleaning and manipulation to prepare bloom datasets for analysis across different regions and seasons.Conducted Exploratory Data Analysis (EDA) to uncover seasonal variations, area-specific trends, and bloom patterns.Built and compared regression models to predict bloom intensity accurately, visualizing results through interactive charts.Developed an AI/ML-based prediction feature enabling users to estimate bloom areas for selected plants in specific regions and seasons.',
-    skillsGained: ['Team Work, Data Cleaning, Storytelling Visualizations, Model Creation, Model Evaluation, Insights Presentation'],
-  }
+    role: 'Data Visualization Job Simualation',
+    company: 'Tata Forage',
+    duration: '1 Day (19th April, 2025)',
+    description: 'Defined the scope and objectives for data analysis to ensure insights met executive requirements. Evaluated and selected the most effective visual formats to represent complex data trends clearly. Synthesized data findings into professional visuals to facilitate high-level decision-making.',
+    skillsGained: ['Data Visualization, Stakeholder Communication, Analytics Communication, Insight Generation, Insights Presentation']
+  },
 ];
 
 const Experience = () => (
