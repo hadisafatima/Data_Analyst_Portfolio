@@ -6,13 +6,13 @@ const certifications = [
         title: 'Google Data Analytics Professional Certificate',
         issuer: 'Google',
         date: '1 Dec, 2023',
-        image: 'public/Google_Data_Analytics_Career_Certitficate.png',
+        image: '/Google_Data_Analytics_Career_Certitficate.png',
     },
     {
         title: 'Data Visualization (Remote Intern)',
         issuer: 'Excelerate',
         date: '1 July, 2025',
-        image: 'public/Excelerate_Internship_Certificate.png',
+        image: '/Excelerate_Internship_Certificate.png',
     },
 ];
 
