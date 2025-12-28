@@ -3,6 +3,12 @@ import { Award } from 'lucide-react';
 
 const certifications = [
     {
+        title: 'Data Anaytics Job Simulation',
+        issuer: 'Tata | Deloitte',
+        date: '28 Dec, 2025',
+        image: '/Tata_Deloitte_Job_Simulation.png',
+    },
+    {
         title: 'Google Data Analytics Professional Certificate',
         issuer: 'Google',
         date: '1 Dec, 2025',
@@ -16,7 +22,7 @@ const certifications = [
     },
     {
         title: 'Data Visualization Job simulation (Remote simulation)',
-        issuer: 'Tata Forage',
+        issuer: 'Tata | Forage',
         date: 'April, 2025',
         image: '/Tata_Forage_Simulation_Certificate.png',
     },

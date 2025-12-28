@@ -2,6 +2,13 @@ import { motion } from 'framer-motion';
 
 const experiences = [
   {
+    role: 'Data Analytics Job Simualation',
+    company: 'Tata | Deloitte',
+    duration: '1 Day (28th Dec, 2025)',
+    description: 'Analyzed industrial IoT data from 1,000+ device events to identify downtime patterns across 5+ factories. Built interactive Tableau dashboards to track unhealthy states, quantify 10–20 min downtime intervals, and enable factory-level drill-downs. Delivered insights that supported faster issue identification and improved operational visibility.',
+    skillsGained: ['Data Visualization using Tableau, Data cleaning, pattern recognition, operational analytics.']
+  },
+  {
     role: 'Data Analyst (Hackathon)',
     company: 'NASA Challenge 2025',
     duration: '2 days (4 Oct - 5 Oct 2025)',
@@ -24,7 +31,7 @@ const experiences = [
   },
   {
     role: 'Data Visualization Job Simualation',
-    company: 'Tata Forage',
+    company: 'Tata | Forage',
     duration: '1 Day (19th April, 2025)',
     description: 'Defined the scope and objectives for data analysis to ensure insights met executive requirements. Evaluated and selected the most effective visual formats to represent complex data trends clearly. Synthesized data findings into professional visuals to facilitate high-level decision-making.',
     skillsGained: ['Data Visualization, Stakeholder Communication, Analytics Communication, Insight Generation, Insights Presentation']
