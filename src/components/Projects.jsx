@@ -4,6 +4,13 @@ import { ExternalLink } from 'lucide-react';
 
 const projects = [
   {
+    title: 'Ashes Matches Analysis (1882 - 2023)',
+    description: 'An interactive Streamlit app that explores historical Ashes Test match data using dynamic visualizations and insights. It features a Random Forest–based prediction model to forecast match outcomes using contextual match attributes.',
+    tech: ['Streamlit, Numpy, Plotly, Sciket-learn, Pandas, R Language'],
+    liveLink: 'https://ashesanalysis.streamlit.app/',
+    repoLink: 'https://github.com/hadisafatima/Ashes-Cricket-Analysis',
+  },
+  {
     title: 'Netflix Data Analysis',
     description: 'This Netflix movies analysis project reflects my hands-on experience with data wrangling, exploratory analysis, and insightful visualization to extract meaningful entertainment industry insights.',
     tech: ['Python, Seaborn, Matplotlib, Numpy, Pandas'],
