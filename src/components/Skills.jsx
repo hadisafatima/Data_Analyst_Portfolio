@@ -10,6 +10,7 @@ const skills = [
   { name: 'R Programming', icon: <FileCode2 size={40}/>, level: 30},
   { name: 'Exploratory Data Analysis', icon: <ChartSpline size={40}/>, level: 70},
   { name: 'Power BI', icon: <LayoutDashboard size={40}/>, level: 60},
+  { name: 'Automation', icon: <Code size={40}/>, level: 45},
 ];
 
 const Skills = () => (
