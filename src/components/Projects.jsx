@@ -4,6 +4,18 @@ import { ExternalLink } from 'lucide-react';
 
 const projects = [
   {
+    title: 'Custom Knowledge ChatBot',
+    description: 'Built an AI-powered knowledge chatbot that answers queries using Excel and text-based data through semantic search and retrieval. Implemented embeddings with a vector database (FAISS/Pinecone) for context-aware responses and developed an interactive Streamlit interface featuring file upload, chat functionality, and history tracking.',
+    tech: ['Python', 'Pandas', 'OpenAI API', 'Streamlit', 'LLM', 'Vector Database'],
+    repoLink: 'https://github.com/hadisafatima/Custom-Knowledge-Chatbot-Excel-Text-Based-'
+  },
+  {
+    title: 'AI Email outreach Agent',
+    description: 'Built an AI-powered email outreach automation system using n8n to manage leads, generate personalized emails with LLMs, and automate sending, reply tracking, and follow-ups through Gmail API/SMTP. Streamlined outreach workflows for 100+ leads per campaign, reducing manual effort by over 80%.',
+    tech: ['N8N', 'OpenAI API', 'LLM', 'Google Sheets'],
+    repoLink: 'https://github.com/hadisafatima/AI-Email-Outreach-Agent-Automation-Project-'
+  },
+  {
     title: 'Ashes Matches Analysis (1882 - 2023)',
     description: 'An interactive Streamlit app that explores historical Ashes Test match data using dynamic visualizations and insights. It features a Random Forest–based prediction model to forecast match outcomes using contextual match attributes.',
     tech: ['Streamlit, Numpy, Plotly, Sciket-learn, Pandas, R Language'],
