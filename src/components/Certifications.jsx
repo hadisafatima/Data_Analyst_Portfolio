@@ -3,6 +3,12 @@ import { Award } from 'lucide-react';
 
 const certifications = [
     {
+        title: 'Data Science Bootcamp',
+        issuer: 'DataCrumbs',
+        data: 'Apr 21, 2026',
+        image: '/DataCrumbs_Certificate.png',
+    },
+    {
         title: 'Data Anaytics Job Simulation',
         issuer: 'Tata | Deloitte',
         date: '28 Dec, 2025',
