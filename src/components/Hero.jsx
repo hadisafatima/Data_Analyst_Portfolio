@@ -31,7 +31,7 @@ const Hero = () => (
         Empowering decisions through data-driven storytelling
       </h3>
       <a
-        href="./Hadisa_Syed_DataAnalyst_Resume.pdf"
+        href="./Data_Science_CV.pdf"
         download
         className="cursor-pointer text-white group px-6 py-3 rounded-lg bg-gray-800 hover:bg-gray-900 transition-colors inline-flex items-center"
       >
