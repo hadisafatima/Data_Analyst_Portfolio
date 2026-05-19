@@ -5,7 +5,7 @@ const certifications = [
     {
         title: 'Data Science Bootcamp',
         issuer: 'DataCrumbs',
-        data: 'Apr 21, 2026',
+        date: 'Apr 21, 2026',
         image: '/DataCrumbs_Certificate.png',
     },
     {
