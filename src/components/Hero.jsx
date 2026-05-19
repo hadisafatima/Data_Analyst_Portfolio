@@ -36,7 +36,7 @@ const Hero = () => (
         className="cursor-pointer text-white group px-6 py-3 rounded-lg bg-gray-800 hover:bg-gray-900 transition-colors inline-flex items-center"
       >
         <Download size={20} className="mr-2 group-hover:translate-y-1 duration-500" />
-        Download Resume
+        Download my CV
       </a>
 
     </motion.div>
